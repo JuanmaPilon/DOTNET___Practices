@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\Tarea_01\\Tarea_01.csproj": {}
+    "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\Tarea_01\\Tarea_01.csproj": {
+    "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\Tarea_01\\Tarea_01.csproj",
+        "projectUniqueName": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj",
         "projectName": "Tarea_01",
-        "projectPath": "C:\\Coding\\Tarea_01\\Tarea_01.csproj",
+        "projectPath": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj",
         "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\Tarea_01\\obj\\",
+        "outputPath": "C:\\Coding\\dotNet___Practices\\Tarea_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
