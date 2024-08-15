@@ -7,6 +7,6 @@
         public string Descripcion { get; set; }
         public double DuracionHoras { get; set; }
         public string Responsable { get; set; }
-
+        public DateTime Fecha { get; set; }
     }
 }

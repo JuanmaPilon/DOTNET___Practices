@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{D41CE641-059B-43A8-95A3-488434101F36}|Tarea_01.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D41CE641-059B-43A8-95A3-488434101F36}|Tarea_01.csproj|c:\\coding\\dotnet___practices\\tarea_01\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41CE641-059B-43A8-95A3-488434101F36}|Tarea_01.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D41CE641-059B-43A8-95A3-488434101F36}|Tarea_01.csproj|c:\\coding\\dotnet___practices\\tarea_01\\tarea_01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D41CE641-059B-43A8-95A3-488434101F36}|Tarea_01.csproj|solutionrelative:tarea_01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:39:28.321Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "Controllers\\TareasController.cs",
               "ToolTip": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Controllers\\TareasController.cs",
               "RelativeToolTip": "Controllers\\TareasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T19:40:42.744Z",
               "EditorCaption": ""
@@ -60,19 +77,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tarea_01",
               "DocumentMoniker": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj",
               "RelativeDocumentMoniker": "Tarea_01.csproj",
               "ToolTip": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj",
               "RelativeToolTip": "Tarea_01.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-14T19:27:35.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T19:27:35.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Tarea_01.http",
               "DocumentMoniker": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.http",
               "RelativeDocumentMoniker": "Tarea_01.http",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Tarea_01.csproj",
               "DocumentMoniker": "C:\\Coding\\dotNet___Practices\\Tarea_01\\Tarea_01.csproj",
               "RelativeDocumentMoniker": "Tarea_01.csproj",
